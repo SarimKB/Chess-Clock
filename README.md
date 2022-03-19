@@ -10,7 +10,7 @@ as well as my passion for the game of chess.
 ---
 
 ## Software
-- Arduino
+- Arduino / C++
 - TM1637 Library
 
 ---
